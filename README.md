@@ -32,3 +32,4 @@ total function. This makes them quite limited from a programmer's perspective.
 It would be possible for Discreet to store local state on the Paranet, which
 would make actors equivalent in power to a DFA or FSM.
 
+TODO: Actors can communicate across programs
